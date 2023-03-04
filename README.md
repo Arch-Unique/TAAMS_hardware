@@ -13,6 +13,18 @@ To use this code, you will need the following hardware:
 - Fingerprint Sensor (such as the R305 or GT-511C3)
 - External Keyboard (any USB keyboard should work)
 - LCD Display (such as the 16x2 or 20x4 character displays) with i2C configured
+- USB to TTL adapters
+
+<img src="raspi.png" width=512>
+<br>
+<br>
+<img src="lcd.png" width=512>
+<br>
+<br>
+<img src="finger.jpg" width=512>
+<br>
+<br>
+<img src="usb.jpg" width=512>
 
 ## Software Requirements
 
