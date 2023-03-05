@@ -117,6 +117,12 @@ i2c-bcm2708
 i2c-dev
 ```
 
+Then install the python library
+
+```bash
+sudo pip install RPLCD
+```
+
 Then restart Raspberry Pi.
 
 ```bash
